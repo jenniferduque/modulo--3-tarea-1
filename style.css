@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Skranji&display=swap');
+
+
+body{
+
+background-image: url("img/background.png");
+
+}
+
+#pepe{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#clara{
+
+    background-color: white;
+    width: 550px;
+    height: 450px;
+    margin-top: 50px;
+    justify-content: flex-start;
+    text-align: center;
+    border-radius: 20px;
+}
+
+#boizq{
+
+    background: rgb(255, 255, 255);
+    width: 100px;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: left;
+    border-radius: 20px;
+    object-fit: contain;
+}
+
+#canvas{
+
+    Background: rgba(255, 255, 255, 0.83);
+    width: 350px;
+    height: 350px;
+    float: left;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#bodere{
+
+    background: rgb(255, 255, 255);
+    width: 100px;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: left;
+    border-radius: 20px;
+    object-fit: contain;
+}
+
+#bocent{
+
+    background: rgb(255, 255, 255);
+    width: 550px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: left;
+    border-radius: 16px;
+}
+
+#info {
+    border: none;
+    color: white;
+    background-color: blue;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 10px;
+  }
+
+#arriba{
+    width: 100%;
+    height: 50px;
+    text-align: left;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+#canvasInfo{
+    Background: rgba(255, 255, 255, 0.83);
+    width: 350px;
+    height: 350px;
+    float: left;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#textoInfo {
+    padding: 10px 20px;
+    width: 160px;
+    height: 350px;
+    float: left;
+    text-align: justify;
+    font-family: 'Skranji', cursive;
+    font-size: 16px;
+    cursor: pointer;
+
+  }
